@@ -4,6 +4,11 @@ An end to end banking analytics project focused on customer behavior analysis, t
 
 ---
 
+## Notion Documentation link
+
+https://autonomousedgeintelligence.notion.site/Banking-Analytics-Dashboard-36b8af91f3af8086be37c014b4354da7
+
+---
 ## Dashboard Preview
 
 <img width="1905" height="1064" alt="Dashboard Preview" src="Dashboard_Screenshots/image.png">
