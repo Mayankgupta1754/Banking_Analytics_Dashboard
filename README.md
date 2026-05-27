@@ -6,7 +6,7 @@ An end to end banking analytics project focused on customer behavior analysis, t
 
 ## Dashboard Preview
 
-<img width="1905" height="1064" alt="Dashboard Preview" src="YOUR_IMAGE_LINK_HERE">
+<img width="1905" height="1064" alt="Dashboard Preview" src="Dashboard_Screenshots/image.png">
 
 ---
 
