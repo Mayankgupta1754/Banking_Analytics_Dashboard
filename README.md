@@ -199,8 +199,9 @@ The dashboard includes the following KPIs and visualizations:
 
 ## Main Dashboard
 
-<img width="1905" height="1064" alt="Dashboard" src="YOUR_IMAGE_LINK_HERE">
+<img width="1905" height="1064" alt="Dashboard" src="Dashboard_Screenshots/image.png">
 
+<img width="1905" height="1064" alt="Dashboard" src="Dashboard_Screenshots/image1.png">
 ---
 
 # Challenges Faced
